@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:8080/api';
+const BASE_URL = 'https://hostel-management-system-uppw.onrender.com/api';
 
 async function request(endpoint, options = {}) {
   const config = {
